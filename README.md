@@ -10,7 +10,17 @@ v1.0
 
 预计v2.0加入功能
 
-爬取网易热歌榜音乐信息
+爬取网易热歌榜音乐
+
+
+
+v.1.0使用方法说明
+
+
+需要的包 requests，json，wordcloud
+
+wordcloud安装失败的直接使用whl文件安装
+$pip install xx.whl 
 
 
 
