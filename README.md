@@ -19,7 +19,9 @@ v.1.0使用方法说明
 
 需要的python包 requests，json，wordcloud
 
-wordcloud安装失败的直接使用whl文件安装
+wordcloud安装失败的直接使用whl文件安装</br>
+
+$pip install wheel</br>
 $pip install xx.whl 
 
 
