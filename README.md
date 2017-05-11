@@ -22,7 +22,8 @@ v.1.0使用方法说明
 wordcloud安装失败的直接使用whl文件安装</br>
 
 $pip install wheel</br>
-$pip install xx.whl 
+$pip install xx.whl </br>
+github签到
 
 
 
